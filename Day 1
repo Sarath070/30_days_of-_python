@@ -1,1 +1,18 @@
 print("Hello world!")
+print(564+856943)#addition
+print(6-22) #substraction
+print(2*3)#multiplication
+print(8956/6)#division
+print(7823456789%4)# modulus
+print(3**3)#exponential
+print(5// 2)  #Floor division is a  method that divideds and then rounds this down to the nearest whole number
+
+**DATA TYPES**
+
+print(type(34))  #int
+print(type(34.4554543)) #float
+print(type("dfghjjgfdxfcgvhbjnkm"))   #str
+print(type(1+4j)) #complex
+print(type(True)) #boolean
+print(type([1,2,3])) #list
+print(type((1,2,3)))  #tuple
