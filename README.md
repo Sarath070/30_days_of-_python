@@ -1,1 +1,1 @@
-# 30_days_of-_python
+# 30_days_of_python
